@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acronyms</string>
+    <string name="landing_screen_search_title">Acronym</string>
+    <string name="landing_screen_title">Acronym and Meanings</string>
+    <string name="landing_screen_error_msg">Something went wrong, try again!</string>
+    <string name="landing_screen_no_meanings_found">No meanings found for this acronym, try again with another acronym!</string>
+</resources>
