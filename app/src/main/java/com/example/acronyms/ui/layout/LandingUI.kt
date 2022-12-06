@@ -37,7 +37,7 @@ fun LandingLayoutUI(
                 AcronymsHeaderText(stringResource(id = R.string.landing_screen_title))
                 AcronymsOutlinedTextField(search = {
                     search(it)
-                }, !state.showLoading)
+                }, !state.showLoading, state.acronymInput)
 
                 Divider(modifier = Modifier.padding(top = 12.dp, bottom = 12.dp))
                 if (state.showLoading) {

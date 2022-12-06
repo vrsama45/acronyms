@@ -22,8 +22,8 @@ import androidx.compose.ui.unit.dp
 import com.example.acronyms.R
 
 @Composable
-fun AcronymsOutlinedTextField(search: (String) -> Unit, enabled: Boolean = true) {
-    var text by remember { mutableStateOf("") }
+fun AcronymsOutlinedTextField(search: (String) -> Unit, enabled: Boolean = true, inputFromState: String? = null) {
+    var text by remember { mutableStateOf(inputFromState ?: "") }
 
     OutlinedTextField(
         value = text,
