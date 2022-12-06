@@ -60,8 +60,8 @@ class AcronymsViewModelTest : TestCase() {
         val currentState = viewModel.uiState.value
         assertFalse(currentState.showLoading)
         assert(currentState.acronymInput == "HMM")
-        assertNull(currentState.acronymMeaningList)
-        assertTrue(currentState.isError)
+        assertTrue(currentState.acronymMeaningList?.isEmpty() == true)
+        assertFalse(currentState.isError)
     }
 
     @Test
