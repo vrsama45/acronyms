@@ -1,5 +1,3 @@
-# acronyms
-
 # Success scenarios experience
 
 ![Screen_Recording_2022-12-05_at_11_57_47_PM_AdobeExpress](https://user-images.githubusercontent.com/119913213/205819944-d09bce8d-9abb-4762-96a5-f76375e2b518.gif)
