@@ -2,7 +2,7 @@
 
 # Success scenarios experience
 
-![Screen_Recording_2022-12-05_at_11_46_21_PM_AdobeExpress](https://user-images.githubusercontent.com/119913213/205818829-5dbb2325-259e-432b-85f4-9b4b53ae58cf.gif)
+![Screen_Recording_2022-12-05_at_11_57_47_PM_AdobeExpress](https://user-images.githubusercontent.com/119913213/205819944-d09bce8d-9abb-4762-96a5-f76375e2b518.gif)
 
 # Error scenario experience 
 
